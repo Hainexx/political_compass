@@ -1,0 +1,12 @@
+name: Ventos_PoliticalCompass
+title: Ventos_PoliticalCompass
+username:
+account: hainexx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4027042
+bundleId: 4520789
+url: https://hainexx.shinyapps.io/Ventos_PoliticalCompass/
+when: 1619446905.47008
+asMultiple: FALSE
+asStatic: FALSE

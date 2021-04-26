@@ -1,0 +1,12 @@
+name: VentoFlame_PC
+title: VentoFlame_PC
+username:
+account: hainexx
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 4024743
+bundleId: 4516239
+url: https://hainexx.shinyapps.io/VentoFlame_PC/
+when: 1619345247.13503
+asMultiple: FALSE
+asStatic: FALSE
